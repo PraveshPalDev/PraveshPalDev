@@ -12,6 +12,34 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PraveshPalDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveshPalDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+---
+
+## 🧩 Key Projects
+
+### 📱 Mobile Applications
+- **Cinch Mobile App** – Real-time chat (1:1 & group), media sharing, push notifications, Redux
+- **Momento Social App** – Photo/video feeds, Firebase storage, OAuth, offline support
+- **ICanCare Medical Platform** – Live doctor events, analytics, quiz modules, Firebase sync
+- **FreeKaaMaal Cashback App** – Deal aggregation, deep linking, offline-first architecture
+
+### 🌐 Web & AI Platform
+- **ZeneChot AI Platform** – Multi-tenant chatbot system, Python backend, RAG workflows, NPM chatbot package (1k+ downloads)
+
+---
+
+
+## 🏆 Achievements
+
+- 🚀 Delivered **4 mobile apps + 1 web app** to production
+- 👥 Applications serving **100k+ users with 99.9% uptime**
+- ⚙️ Reduced deployment time by **60% using Docker & CI/CD**
+- 📦 Published **AI chatbot NPM package with 1k+ downloads**
+- ⚡ Improved app performance by **40% through optimization**
+
+---
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PraveshPalDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
